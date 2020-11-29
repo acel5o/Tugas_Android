@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DesainLayout</string>
+    <string name="t1">Gak ada biaya</string>
+    <string name="t2">tersembunyi</string>
+    <string name="t3">Gak ada lagi biaya admin bulanan atau</string>
+    <string name="t4">pun biaya pembukaan rekening</string>
+    <string name="t5">REGISTER</string>
+    <string name="t6">SAYA SUDAH PUNYA AKUN</string>
+    <string name="t7">Version 2.28.1 (7447)</string>
+</resources>
