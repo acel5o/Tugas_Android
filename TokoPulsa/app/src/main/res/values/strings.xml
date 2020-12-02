@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TokoPulsa</string>
+    <string name="pulsa">Pulsa</string>
+    <string name="rincian">Rincian Pembelian</string>
+    <string name="desc">Seluruh transaksi anda cepat dan aman.</string>
+    <string name="bayar">BAYAR SEKARANG</string>
+    <string name="berhasil">Transaksi Anda Berhasil</string>
+</resources>
